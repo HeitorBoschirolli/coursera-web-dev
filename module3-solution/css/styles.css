@@ -1,0 +1,56 @@
+nav div.bg-gray {
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    background-color: lightcoral;
+    color: black;
+}
+
+.bg-gray {
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar-nav.white-bg-list {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar-default .navbar-brand {
+    color: yellow;
+}
+
+#colorfull-nav {
+    background-color: rgb(0, 136, 255);
+    border: 1px solid black;
+    border-radius: 0px
+}
+
+.navbar-default .navbar-toggle {
+    border-color: yellow;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: yellow;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: yellow;
+}
+
+li>a {
+    background-color: coral;
+}
+
+div>ul.margins-are-bad {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+div>ul>li {
+    border: 0.5px solid black;
+}
+
+section.super-section {
+    background-color: lightgreen;
+}
